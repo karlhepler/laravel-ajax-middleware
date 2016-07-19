@@ -1,0 +1,13 @@
+{
+    "name": "oldtimeguitarguy/laravel-ajax-middleware",
+    "description": "Simple middleware to force ajax requests",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karl Hepler",
+            "email": "khepler@brandmovers.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
