@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {},
-    "autorun": {
+    "autoload": {
         "psr-4": {
             "OldTimeGuitarGuy\\Laravel\\": "src/OldTimeGuitarGuy/Laravel/"
         }
