@@ -9,5 +9,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autorun": {
+        "psr-4": {
+            "OldTimeGuitarGuy\\Laravel\\": "src/OldTimeGuitarGuy/Laravel/"
+        }
+    }
 }

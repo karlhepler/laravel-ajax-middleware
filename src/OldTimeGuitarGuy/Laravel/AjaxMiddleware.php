@@ -1,6 +1,6 @@
 <?php
 
-namespace OldTimeGuitarGuy\Laravel\AjaxMiddleware;
+namespace OldTimeGuitarGuy\Laravel;
 
 use Closure;
 use Illuminate\Http\Request;
